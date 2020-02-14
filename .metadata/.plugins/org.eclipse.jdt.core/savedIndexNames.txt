@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+D:\shoikat\study\coliution program\.metadata\.plugins\org.eclipse.jdt.core
+64003002.index
